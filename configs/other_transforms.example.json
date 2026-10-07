@@ -1,0 +1,17 @@
+{
+  "model": "models/sd2.1-base",
+  "layouts": [1, 16, 64],
+  "attacks": [
+    {"name":"identity", "kind":"identity"},
+    {"name":"crop3", "kind":"crop_resize", "pixels":3},
+    {"name":"crop6", "kind":"crop_resize", "pixels":6},
+    {"name":"right6", "kind":"translation", "dx":6, "dy":0},
+    {"name":"jpeg75", "kind":"jpeg", "quality":75},
+    {"name":"blur1", "kind":"gaussian_blur", "radius":1.0}
+  ],
+  "calibration_count": 20,
+  "test_count": 100,
+  "num_devices": 1,
+  "seed_offset": 10000000,
+  "save_initial_latents": false
+}

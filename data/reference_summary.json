@@ -1,0 +1,172 @@
+[
+  {
+    "layout": 1,
+    "grid": [
+      1,
+      1
+    ],
+    "n": 100,
+    "threshold": 1.0852993712287553,
+    "target_fpr": 0.05,
+    "detected": 28,
+    "false_positives": 5,
+    "tpr": 0.28,
+    "fpr": 0.05,
+    "auroc": 0.7537,
+    "original_any_detected": 0,
+    "original_any_false_positives": 0,
+    "tpr_95ci": [
+      0.20139685211186212,
+      0.3748802870992116
+    ],
+    "fpr_95ci": [
+      0.02154367915436796,
+      0.11175046923191913
+    ],
+    "auroc_bootstrap_95ci": [
+      0.6863,
+      0.8169099999999999
+    ],
+    "tpr_difference_vs_unpatched": 0.0,
+    "tpr_difference_bootstrap_95ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "layout": 4,
+    "grid": [
+      2,
+      2
+    ],
+    "n": 100,
+    "threshold": 0.933395984341502,
+    "target_fpr": 0.05,
+    "detected": 7,
+    "false_positives": 0,
+    "tpr": 0.07,
+    "fpr": 0.0,
+    "auroc": 0.7011,
+    "original_any_detected": 0,
+    "original_any_false_positives": 0,
+    "tpr_95ci": [
+      0.03431926106727268,
+      0.137495147390735
+    ],
+    "fpr_95ci": [
+      3.469446951953614e-18,
+      0.03699349820698568
+    ],
+    "auroc_bootstrap_95ci": [
+      0.63728,
+      0.7594025
+    ],
+    "tpr_difference_vs_unpatched": -0.21,
+    "tpr_difference_bootstrap_95ci": [
+      -0.31,
+      -0.1
+    ]
+  },
+  {
+    "layout": 16,
+    "grid": [
+      4,
+      4
+    ],
+    "n": 100,
+    "threshold": 0.39403987402901375,
+    "target_fpr": 0.05,
+    "detected": 73,
+    "false_positives": 1,
+    "tpr": 0.73,
+    "fpr": 0.01,
+    "auroc": 0.9679,
+    "original_any_detected": 26,
+    "original_any_false_positives": 0,
+    "tpr_95ci": [
+      0.6356788323205499,
+      0.8073041585042365
+    ],
+    "fpr_95ci": [
+      0.0017674320641406505,
+      0.054486196178705315
+    ],
+    "auroc_bootstrap_95ci": [
+      0.9447,
+      0.9872025
+    ],
+    "tpr_difference_vs_unpatched": 0.45,
+    "tpr_difference_bootstrap_95ci": [
+      0.34,
+      0.57
+    ]
+  },
+  {
+    "layout": 32,
+    "grid": [
+      4,
+      8
+    ],
+    "n": 100,
+    "threshold": 0.3034538022320989,
+    "target_fpr": 0.05,
+    "detected": 73,
+    "false_positives": 1,
+    "tpr": 0.73,
+    "fpr": 0.01,
+    "auroc": 0.9848,
+    "original_any_detected": 27,
+    "original_any_false_positives": 0,
+    "tpr_95ci": [
+      0.6356788323205499,
+      0.8073041585042365
+    ],
+    "fpr_95ci": [
+      0.0017674320641406505,
+      0.054486196178705315
+    ],
+    "auroc_bootstrap_95ci": [
+      0.9701,
+      0.9953
+    ],
+    "tpr_difference_vs_unpatched": 0.45,
+    "tpr_difference_bootstrap_95ci": [
+      0.33,
+      0.57
+    ]
+  },
+  {
+    "layout": 64,
+    "grid": [
+      8,
+      8
+    ],
+    "n": 100,
+    "threshold": 0.2103727165945571,
+    "target_fpr": 0.05,
+    "detected": 74,
+    "false_positives": 1,
+    "tpr": 0.74,
+    "fpr": 0.01,
+    "auroc": 0.9799,
+    "original_any_detected": 39,
+    "original_any_false_positives": 0,
+    "tpr_95ci": [
+      0.6462901055081282,
+      0.8159530153525186
+    ],
+    "fpr_95ci": [
+      0.0017674320641406505,
+      0.054486196178705315
+    ],
+    "auroc_bootstrap_95ci": [
+      0.9618,
+      0.9936
+    ],
+    "tpr_difference_vs_unpatched": 0.46,
+    "tpr_difference_bootstrap_95ci": [
+      0.34,
+      0.58
+    ]
+  }
+]

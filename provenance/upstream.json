@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/XuandongZhao/PRC-Watermark",
+  "commit": "3f372c1d9cafcd0732331c0d00f0430ee822a389",
+  "files": {
+    "inversion.py": "7d5026d5301318b4037aad4a7e4982f52af60df2bd30b09a599daf778a351437",
+    "LICENSE": "569e024f9bef1e851d00711b30cca2744150f75889adda4f5a2ce2272235e7e0",
+    "src/inverse_stable_diffusion.py": "f2e3ce6b98efec8fa0e7523c07d75f249b60e78dba02f5424b47e27a4b6a0f99",
+    "src/modified_stable_diffusion.py": "239d6e7b728cd717010a7fb05c14670b68f18629183c81fbc74ad31ce24365ec",
+    "src/optim_utils.py": "d96765a945a6d26514799bc6d8da0afc74f63a3482ff02e4ebd9391eb0dde344",
+    "src/prc.py": "6e3743687fe01ce148fd44998c82e785b9b408548f22820c5f0defbcf3e67a5f",
+    "src/pseudogaussians.py": "6cc92bd53afe9004a2d878c7db406454c04a36d4724db41410821dac7ad872f8"
+  }
+}

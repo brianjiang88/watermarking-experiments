@@ -1,0 +1,14 @@
+# Python 3.10; use a CUDA-compatible PyTorch wheel on GPU hosts.
+torch==2.1.0
+torchvision==0.16.0
+transformers==4.29.2
+diffusers==0.21.4
+numpy==1.26.0
+scipy==1.14.1
+huggingface_hub==0.25.0
+galois==0.4.1
+ldpc==0.1.51
+datasets==2.21.0
+accelerate==0.24.1
+Pillow==10.4.0
+safetensors==0.4.5

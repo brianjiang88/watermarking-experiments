@@ -1,0 +1,994 @@
+{
+  "name": "crop-five-layouts-calibrated100",
+  "created_at": 1790858607.4842203,
+  "records": [
+    {
+      "index": 0,
+      "parent_index": 50,
+      "source_index": 619,
+      "prompt": "painting of hybrid between cat!! & eagle, intercrossed animal, mixture animal, by tiffany bozic, by zdzislaw beksinski, organic, nature study, accurate anatomy, cold hue's, warm tone gradient background, concept art, beautiful composition, digital painting,",
+      "split": "test"
+    },
+    {
+      "index": 1,
+      "parent_index": 51,
+      "source_index": 560,
+      "prompt": "japanese style palace under attack, hyper realistic, lush gnarly plants, 8 k, denoised, by greg rutkowski, tom bagshaw, james gurney cozy atmospheric and cinematic lightingg",
+      "split": "test"
+    },
+    {
+      "index": 2,
+      "parent_index": 52,
+      "source_index": 45,
+      "prompt": "portrait painting of a cyberpunk orc shaman extremely muscular ugly elizabeth olsen, ultra realistic, concept art, intricate details, eerie, highly detailed, photorealistic, octane render, 8 k, unreal engine. art by artgerm and greg rutkowski and charlie bowater and magali villeneuve and alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 3,
+      "parent_index": 53,
+      "source_index": 865,
+      "prompt": "Reptilian space alien, in an office building, medium shot, dramatic backlighting, autochrome, high contrast, highly detailed, sharp focus, digital painting, concept art, illustration, filmpunk , trending on artstation, art by greg rutkowski and greg hildebrandt, composition by alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 4,
+      "parent_index": 54,
+      "source_index": 611,
+      "prompt": "full body portrait of Peter Griffin , very detailed eyes, hyperrealistic, beautiful and symmetrical face, very detailed painting by Claude Monet and Alphonse Mucha, ornate, trending on artstation, extremely high detail, incredibly intricate",
+      "split": "test"
+    },
+    {
+      "index": 5,
+      "parent_index": 55,
+      "source_index": 781,
+      "prompt": "cabela's beautiful comfortable carbon framed, modular insulated wall portable container home kit - house all weather family dwelling tent house, person in foreground, mountainous forested wilderness open fields, beautiful views, painterly concept art, environmental concept art, concept art illustration, by james gurney, by craig mullins, by greg rutkowski trending on artstation",
+      "split": "test"
+    },
+    {
+      "index": 6,
+      "parent_index": 56,
+      "source_index": 967,
+      "prompt": "close up of a ferret with scars and a face tattoo, deep focus, d & d, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp focus, illustration, hearthstone, art by artgerm and greg rutkowski and alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 7,
+      "parent_index": 57,
+      "source_index": 869,
+      "prompt": "fallout sci - fi concept art, vibrant colors, 8 k photorealistic, hd, high details, trending on artstation",
+      "split": "test"
+    },
+    {
+      "index": 8,
+      "parent_index": 58,
+      "source_index": 258,
+      "prompt": "patching up a whole in the space station with corn, hyper realism, cinematic, dramatic ambient lighting, high detail, octane render, unreal engine, 8 k, vibrant colors, high contrast, depth of field, professional photo, concept art, dnd, 3 d render, digital art, deviantart artstation, ray tracing, apocalyptic, extremely detailed, very sharp,",
+      "split": "test"
+    },
+    {
+      "index": 9,
+      "parent_index": 59,
+      "source_index": 976,
+      "prompt": "a beautiful dramatic epic painting of a thicc black man | he is shirtless and wearing a cowboy hat and leather harness | background is a dust cloud | homoerotic, highly detailed, dramatic lighting | by Mark Maggiori, by William Herbert Dunton, by Charles Marion Russell | trending on artstation",
+      "split": "test"
+    },
+    {
+      "index": 10,
+      "parent_index": 60,
+      "source_index": 42,
+      "prompt": "cyberpunk apartment interior overview mapa design, Moebius, Greg Rutkowski, Zabrocki, Karlkka, Jayison Devadas, Phuoc Quan, trending on Artstation, 8K, ultra wide angle, pincushion lens effect.",
+      "split": "test"
+    },
+    {
+      "index": 11,
+      "parent_index": 61,
+      "source_index": 842,
+      "prompt": "a beautiful woman wearing a hijab made of silver with jewelry and diamonds by karol bak, ayami kojima, artgerm, sakimichan, arabian beauty, blue eyes, smile, concept art, fantasy",
+      "split": "test"
+    },
+    {
+      "index": 12,
+      "parent_index": 62,
+      "source_index": 645,
+      "prompt": "the doomslayer as a scifi knight, closeup portrait art by donato giancola and greg rutkowski, realistic face, digital art, trending on artstation, symmetry!!",
+      "split": "test"
+    },
+    {
+      "index": 13,
+      "parent_index": 63,
+      "source_index": 805,
+      "prompt": "putin mixed with a monkey, funeral, portrait, highly detailed, full body, digital painting, trending on artstation, concept art, sharp focus, illustration, art by artgerm and greg rutkowski and magali villeneuve",
+      "split": "test"
+    },
+    {
+      "index": 14,
+      "parent_index": 64,
+      "source_index": 727,
+      "prompt": "digital art, centered full body elven bride with short hair, vivid flower crown ,intricate, veins, by James Jean and by artgerm, by ross tran , ultradetailed, charachter design, concept art, trending on artstation,",
+      "split": "test"
+    },
+    {
+      "index": 15,
+      "parent_index": 65,
+      "source_index": 16,
+      "prompt": "trevor philips plays elden ring on a dish washer, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 16,
+      "parent_index": 66,
+      "source_index": 906,
+      "prompt": "blurred background. close-up portrait of a goddess in crown, by Artgerm and Afarin Sajedi and greg rutkowski. octane render",
+      "split": "test"
+    },
+    {
+      "index": 17,
+      "parent_index": 67,
+      "source_index": 99,
+      "prompt": "a portrait of a beautiful 28th century cyberpunk female very young with long hair, largely biomechanical, hyper-realistic, very detailed unreal engine, by Artgerm, WLOP and Ross Thran, dramatic cinematic lighting rendered by octane, 8k, detailed, trending on artstation, deviantart, google images, pinterest",
+      "split": "test"
+    },
+    {
+      "index": 18,
+      "parent_index": 68,
+      "source_index": 728,
+      "prompt": "ultra realistic illustration, stephanie from lazy town, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 19,
+      "parent_index": 69,
+      "source_index": 916,
+      "prompt": "antediluvian occult cosmology, panspermia, by robert hooke and ernst haeckel and agostino arrivabene and joaquin sorolla and martin johnson heade, rule of thirds, vivid colours, negative space, atmospheric, digital painting, artstation, concept art, smooth, sharp focus",
+      "split": "test"
+    },
+    {
+      "index": 20,
+      "parent_index": 70,
+      "source_index": 0,
+      "prompt": "fantasy girl mage wearing a black dress in a forest, dramatic fantasy art, by yoshitaka amano, trending on artstation, 4 k, expressive oil painting, close - up face portrait, vivid colors",
+      "split": "test"
+    },
+    {
+      "index": 21,
+      "parent_index": 71,
+      "source_index": 828,
+      "prompt": "an ancient legate roman soldier, intricate, elegant, volumetric lighting, scenery, digital painting, highly detailed, artstation, sharp focus, illustration, concept art,ruan jia, steve mccurry",
+      "split": "test"
+    },
+    {
+      "index": 22,
+      "parent_index": 72,
+      "source_index": 877,
+      "prompt": "lindsey pelas as emma watson the president of united states, digital painting, artstation, concept art, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 23,
+      "parent_index": 73,
+      "source_index": 699,
+      "prompt": "a very beautiful dreamy hyper realistic portrait of a glass woman made of transparent glass skin filled with glowing glass butterflies inside, rendered by beeple, syd meade, futuristic art concept, sci - fi, digital art, unreal engine, wlop, trending on artstation, 4 k uhd image, octane render",
+      "split": "test"
+    },
+    {
+      "index": 24,
+      "parent_index": 74,
+      "source_index": 620,
+      "prompt": "realistic digital painting of a stunning intricate cracked white marble falling angel bernini sculpture, trailing white vapor, mycelium stands and misty xparticles neutral tone background, trending on artstation, hyperrealism, matte painting, subsurface scattering",
+      "split": "test"
+    },
+    {
+      "index": 25,
+      "parent_index": 75,
+      "source_index": 498,
+      "prompt": "anthropomorphic highly detailed group portrait of funny neon giant cute eyes irish model one - point - perspective - peacock mandala, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm, bob eggleton, michael whelan, stephen hickman, richard corben, wayne barlowe, trending on artstation and greg rutkowski and alphonse mucha, 8 k",
+      "split": "test"
+    },
+    {
+      "index": 26,
+      "parent_index": 76,
+      "source_index": 704,
+      "prompt": "A 3D model of a giant floating head in space of mark zuckerberg looking like an alien, fantasy art, in the style of artgerm, illustration, epic, fantasy, intricate, hyper detailed, artstation, concept art, smooth, sharp focus, ray tracing, vibrant, artgerm, award winning art, ray tracing",
+      "split": "test"
+    },
+    {
+      "index": 27,
+      "parent_index": 77,
+      "source_index": 476,
+      "prompt": "black kids mixing with together in a red abstract background with clouds, a detailed painting by Wen Hsu, trending on artstation",
+      "split": "test"
+    },
+    {
+      "index": 28,
+      "parent_index": 78,
+      "source_index": 207,
+      "prompt": "a female wearing a red mechanics jumpsuit, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8 k",
+      "split": "test"
+    },
+    {
+      "index": 29,
+      "parent_index": 79,
+      "source_index": 447,
+      "prompt": "isometric bowl island on neon background, isometric invironment, 3d art, isometric art, amazing detail, artstation, concept art, behance, ray tracing",
+      "split": "test"
+    },
+    {
+      "index": 30,
+      "parent_index": 80,
+      "source_index": 131,
+      "prompt": "denzel washington, style game square enix life, trending on artstation, painted by greg rutkowski, render naughty dog",
+      "split": "test"
+    },
+    {
+      "index": 31,
+      "parent_index": 81,
+      "source_index": 758,
+      "prompt": "a portrait of a cat character in a scenic environment by sandra chevrier, hyperdetailed, trending on artstation",
+      "split": "test"
+    },
+    {
+      "index": 32,
+      "parent_index": 82,
+      "source_index": 822,
+      "prompt": "prompt! dream symmetry!! stunning portrait of a soldier!! by victo ngai, kilian eng vibrant colours, dynamic lighting, digital art, winning award masterpiece, fantastically beautiful, illustration, aesthetically inspired by beksinski and dan mumford, trending on artstation, art by greg rutkowski, 8 k",
+      "split": "test"
+    },
+    {
+      "index": 33,
+      "parent_index": 83,
+      "source_index": 563,
+      "prompt": "a closeup photorealistic photograph of bob ross working on a canvas painting of hulk. film still. brightly lit scene. mountains and trees. this 4 k hd image is trending on artstation, featured on behance, well - rendered, extra crisp, features intricate detail, epic composition and the style of unreal engine.",
+      "split": "test"
+    },
+    {
+      "index": 34,
+      "parent_index": 84,
+      "source_index": 314,
+      "prompt": "Demonic beautiful vampire white-haired young woman mistress of death mourning widow vintage gown with a faint smile dark lipstick macro golden iris wearing dark clouds fog smoke and fire as clothes, colourful trending artstation, detailed portrait academic caravaggio Bouguereau, sharp focus medium shot",
+      "split": "test"
+    },
+    {
+      "index": 35,
+      "parent_index": 85,
+      "source_index": 306,
+      "prompt": "ultra realistic illustration of immortal neuron, alien room, massive, intricate, scifi, unique landscape, highly detailed, singularity, cybernetic, thought provoking, masterpiece, digital painting, artstation, concept art, smooth, sharp focus, highly detailed, art by roberto digiglio and furio tedeschi and filippo ubertino",
+      "split": "test"
+    },
+    {
+      "index": 36,
+      "parent_index": 86,
+      "source_index": 394,
+      "prompt": "a portrait of jesus praying, pikachu, fantasy by dan mumford, yusuke murata and makoto shinkai, 8 k, cel shaded, unreal engine, featured on artstation, pixiv",
+      "split": "test"
+    },
+    {
+      "index": 37,
+      "parent_index": 87,
+      "source_index": 506,
+      "prompt": "a highly detailed epic cinematic concept art CG render digital painting artwork: Dream guide. By Greg Rutkowski, in the style of Francis Bacon and Syd Mead and Norman Rockwell and Beksinski, open ceiling, highly detailed, painted by Francis Bacon and Edward Hopper, painted by James Gilleard, surrealism, airbrush, Ilya Kuvshinov, WLOP, Stanley Artgerm, very coherent, triadic color scheme, art by Takato Yamamoto and James Jean",
+      "split": "test"
+    },
+    {
+      "index": 38,
+      "parent_index": 88,
+      "source_index": 735,
+      "prompt": "a beautiful blue tiefling, dnd, face, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 39,
+      "parent_index": 89,
+      "source_index": 838,
+      "prompt": "portrait of steve buscemi as legolas, action shot, elven archer, by alan lee, lord of the rings, smooth, detailed terrain, oil painting, matte painting, concept art, trending on artstation, promotional artwork, film still, elegant, photorealistic facial features, intricate, detailed face, cinematic lighting",
+      "split": "test"
+    },
+    {
+      "index": 40,
+      "parent_index": 90,
+      "source_index": 962,
+      "prompt": "a medieval hobbit home, ornate, beautiful, atmosphere, vibe, mist, flowers, concept art illustration, color page, 4 k, tone mapping, doll, akihiko yoshida, james jean, andrei riabovitchev, marc simonetti, yoshitaka amano, digital illustration, greg rutowski, volumetric lighting, sunbeams, particles",
+      "split": "test"
+    },
+    {
+      "index": 41,
+      "parent_index": 91,
+      "source_index": 264,
+      "prompt": "concept art of a man in a menacing stance with his body covered in burns, with black smoke coming out of his hands, full body, dark colors, sinister atmosphere, dramatic lighting, cinematic, establishing shot, extremely high detail, photo realistic, cinematic lighting, pen and ink, intricate line drawings, by Yoshitaka Amano, Ruan Jia, Kentaro Miura, Artgerm, post processed, concept art, artstation, matte painting, style by eddie mendoza, raphael lacoste, alex ross,",
+      "split": "test"
+    },
+    {
+      "index": 42,
+      "parent_index": 92,
+      "source_index": 143,
+      "prompt": "giant azure tree on a paradise planet, in the distance, magical, concept art, digital art, colorful, divine, massive scale",
+      "split": "test"
+    },
+    {
+      "index": 43,
+      "parent_index": 93,
+      "source_index": 120,
+      "prompt": "concept art of robotic in dynamic pose by jama jurabaev, trending on artstation, high quality, brush stroke, for aaa game",
+      "split": "test"
+    },
+    {
+      "index": 44,
+      "parent_index": 94,
+      "source_index": 618,
+      "prompt": "a portrait of a cinematic still of the happy mask salesman smiling with red hair, art by lois van baarle and loish and ross tran and rossdraws and sam yang and samdoesarts and artgerm and saruei and disney, digital art, highly detailed, intricate, sharp focus, trending on artstation hq, deviantart, unreal engine 5, 4 k uhd image",
+      "split": "test"
+    },
+    {
+      "index": 45,
+      "parent_index": 95,
+      "source_index": 945,
+      "prompt": "ultra realistic beautiful cyborg deity eyes closed, scifi, cyberpunk, fantasy, intricate details, movie still, highly detailed, photorealistic, octane render, eerie, 8k, art by artgerm and michael welan",
+      "split": "test"
+    },
+    {
+      "index": 46,
+      "parent_index": 96,
+      "source_index": 179,
+      "prompt": "portrait of a man by Greg Rutkowski, Henry Cavill as a soldier from the Galactic Alliance from the Star Wars Expanded Universe, scifi, highly detailed portrait, digital painting, artstation, concept art, smooth, sharp foccus ilustration, Artstation HQ",
+      "split": "test"
+    },
+    {
+      "index": 47,
+      "parent_index": 97,
+      "source_index": 861,
+      "prompt": "Concept art of a SpaceX Super Heavy with cat ears landing on Mars, photorealistic, 4k, beautiful composition, trending on artstation, award-winning photograph, masterpiece",
+      "split": "test"
+    },
+    {
+      "index": 48,
+      "parent_index": 98,
+      "source_index": 205,
+      "prompt": "strawberry creature with multiple eyes concept art",
+      "split": "test"
+    },
+    {
+      "index": 49,
+      "parent_index": 99,
+      "source_index": 263,
+      "prompt": "highly detailed closeup portrait of Pyrrha Nikos from RWBY, very detailed, realistic, card, by Stanley Artgerm Lau, greg rutkowski, thomas kindkade, alphonse mucha, loish, norman rockwell J.",
+      "split": "test"
+    },
+    {
+      "index": 50,
+      "parent_index": 100,
+      "source_index": 414,
+      "prompt": "amazing lifelike award winning pencil illustration of vincent price trending on art station artgerm greg rutkowski alphonse mucha cinematic",
+      "split": "test"
+    },
+    {
+      "index": 51,
+      "parent_index": 101,
+      "source_index": 266,
+      "prompt": "epic portrait of slightly muscular indigenous visionary sheila watt cloutier serious wearing short sleeved instructor uniform laser pointing on globe, blueprint, detailed, artstation, concept art, donato giancola, joseph christian leyendecker, wlop, boris vallejo, breathtaking, highest resolution, extremely detailed beautiful, establishing shot, artistic, hyperrealistic, beautiful face, enhanced hands, octane render",
+      "split": "test"
+    },
+    {
+      "index": 52,
+      "parent_index": 102,
+      "source_index": 325,
+      "prompt": "full body portrait of a korean schoolgirl with long hair and bangs, her hands are thin red tedrils, dramatic lighting, illustration by Greg rutkowski, yoji shinkawa, 4k, digital art, concept art, trending on artstation",
+      "split": "test"
+    },
+    {
+      "index": 53,
+      "parent_index": 103,
+      "source_index": 998,
+      "prompt": "portrait of a robot made of clock parts, cinematic, volumetric lighting, dramatic ambient lighting, epic composition, high detail, octane render, unreal engine, 8 k, vibrant colors, depth of field, concept art, digital art, deviantart artstation, ray tracing, intricate complexity, extremely detailed, apocalyptic, very sharp,",
+      "split": "test"
+    },
+    {
+      "index": 54,
+      "parent_index": 104,
+      "source_index": 655,
+      "prompt": "overwatch concept art character portrait of a new character who is an african american man with rose - tinted sunglasses spectacles, trending on artstation, cgsociety,",
+      "split": "test"
+    },
+    {
+      "index": 55,
+      "parent_index": 105,
+      "source_index": 964,
+      "prompt": "Daryl McCormack as a hero, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and donato giancola and Joseph Christian Leyendecker, Ross Tran, WLOP",
+      "split": "test"
+    },
+    {
+      "index": 56,
+      "parent_index": 106,
+      "source_index": 796,
+      "prompt": "cassandra cain in a tribal ripped dress, by artgerm, by studio muti, greg rutkowski makoto shinkai takashi takeuchi studio ghibli",
+      "split": "test"
+    },
+    {
+      "index": 57,
+      "parent_index": 107,
+      "source_index": 95,
+      "prompt": "portrait of a gruff ranger holding a spear, accompanied by a wolf dog, muscular, upper body, hairy body, D&D, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp focus, illustration, art by Artgerm and Greg Rutkowski and Alphonse Mucha",
+      "split": "test"
+    },
+    {
+      "index": 58,
+      "parent_index": 108,
+      "source_index": 774,
+      "prompt": "portrait of a beautiful young fit male demon with ram horns, scaly torso and goat legs, hellish scene, by greg rutkowski and alphonse mucha, d & d character, gradient red to yellow, in front of an hellish landscape background, highly detailed portrait, digital painting, artstation, concept art, smooth, sharp focus ilustration, artstation hq",
+      "split": "test"
+    },
+    {
+      "index": 59,
+      "parent_index": 109,
+      "source_index": 107,
+      "prompt": "portrait of little bird sansa stark with long hair, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha and william - adolphe bouguereau",
+      "split": "test"
+    },
+    {
+      "index": 60,
+      "parent_index": 110,
+      "source_index": 294,
+      "prompt": "Portrait of Zeraora, made by Yoji Shinkawa, Highly detailed, dynamic posing, concept art",
+      "split": "test"
+    },
+    {
+      "index": 61,
+      "parent_index": 111,
+      "source_index": 801,
+      "prompt": "a hybrid of benedict cumberbatch and freddie highmore and and timothee chalamet inside the tardis, photo realistic, highly detailed, perfect face, fine details, by ha gyung, zac retz, peter mohrbacher, kezie demessance, greg rutkowski, artgerm",
+      "split": "test"
+    },
+    {
+      "index": 62,
+      "parent_index": 112,
+      "source_index": 907,
+      "prompt": "photo of a gorgeous viking queen in armor in the style of stefan kostic, realistic, sharp focus, 8 k high definition, insanely detailed, intricate, elegant, art by stanley lau and artgerm",
+      "split": "test"
+    },
+    {
+      "index": 63,
+      "parent_index": 113,
+      "source_index": 388,
+      "prompt": "giancarlo esposito as dhalsim street fighter, 4 k, ultra realistic, detailed focused art by artgerm and greg rutkowski and alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 64,
+      "parent_index": 114,
+      "source_index": 14,
+      "prompt": "a portrait photograph of a meditating harpy and a centaur king riding horses at a wide river delta. surrounded by bulbous flowers, animals, trees and mushrooms. mountain range under a vast blue sky of burning stars and parrots. painted by jan van eyck, max ernst, ernst haeckel and artgerm, cgsociety, artstation, fashion editorial",
+      "split": "test"
+    },
+    {
+      "index": 65,
+      "parent_index": 115,
+      "source_index": 665,
+      "prompt": "jenna coleman as a star trek captain, a still from star trek painted by artgerm and greg rutkowski and alphonse mucha. clear highly detailed face, beautiful sci fi art",
+      "split": "test"
+    },
+    {
+      "index": 66,
+      "parent_index": 116,
+      "source_index": 154,
+      "prompt": "3 / 4 view of a portrait of a fighter woman with wings with wings, confident pose, genshin impact, digital art,, concept art, smooth, sharp focus, illustration, trending on artstation, highly detailed, concept art, trevor carlton, mickey demeo, trending on artstation, anime imax 7 0 mm, h 6 4 0",
+      "split": "test"
+    },
+    {
+      "index": 67,
+      "parent_index": 117,
+      "source_index": 145,
+      "prompt": "women, concept art, dark fantasy, athletic body, symmetrical face, ultra realistic details + hyper real + unreal engine 5 + octane render, plum latex carved intricate armor by h. r. giger, beautiful portrait + full body + no blur + symmetrical + beautiful lighting + post processing + hd resolution, historical image, photorealistic, medium shot, abandon cathedral, photorealistic golden ratio",
+      "split": "test"
+    },
+    {
+      "index": 68,
+      "parent_index": 118,
+      "source_index": 701,
+      "prompt": "AN 8K RESOLUTION, MATTE PAINTING OF THE WISE AND ANIENT COSMIC TURTLE, FLYING THROUGH a rainbow nebula BY BOB EGGLETON AND MICHAEL WHELAN. TRENDING ON aRTSTATION, hd, highly detailed, vibrant colors, astrophotography, volumetric lighting, dynamic portrait, wide lens, mass effect game art",
+      "split": "test"
+    },
+    {
+      "index": 69,
+      "parent_index": 119,
+      "source_index": 579,
+      "prompt": "paul blart, reading book | very very anime!!!, fine - face, audrey plaza, realistic shaded perfect face, fine details. anime. realistic shaded lighting poster by ilya kuvshinov katsuhiro otomo ghost - in - the - shell, magali villeneuve, artgerm, jeremy lipkin and michael garmash and rob rey",
+      "split": "test"
+    },
+    {
+      "index": 70,
+      "parent_index": 120,
+      "source_index": 33,
+      "prompt": "margot robbie as a beautiful magician casting colorful spells, fantasy art, in the style of Fernando Juarez, illustration, epic art, fantasy, intricate, elgant, amazing detail, digital painting, artstation, concept art, smooth, sharp focus",
+      "split": "test"
+    },
+    {
+      "index": 71,
+      "parent_index": 121,
+      "source_index": 705,
+      "prompt": "a portrait of spiderman as a scary zombie with his mask and flesh ripped highly detailed, digital photo, hdri, by christopher bretz and john carpenter, vivid colors, high contrast, 8 k resolution, intricate, photorealistic, smooth, psychedelic color scheme, concept art, award winning, cg society contest winner",
+      "split": "test"
+    },
+    {
+      "index": 72,
+      "parent_index": 122,
+      "source_index": 557,
+      "prompt": "painting of olivia hye loona cyberpunk samurai, perfect face, ultra realistic, concept art, intricate details, eerie, highly detailed, photorealistic, octane render, 8 k, unreal engine. art by artgerm and greg rutkowski and magali villeneuve and alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 73,
+      "parent_index": 123,
+      "source_index": 97,
+      "prompt": "close up portrait painting of a frontier cattle rancher, accurate human hand representation, ultra realistic, concept art, intricate details, serious, highly detailed, photorealistic, octane render, 8 k, unreal engine. art by artgerm and greg rutkowski and alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 74,
+      "parent_index": 124,
+      "source_index": 891,
+      "prompt": "concept art detailed painting of a dark purple fantasy fairytale fungal town made of mushrooms, with glowing blue lights, in the style of jordan grimmer and neil blevins and wayne barlowe",
+      "split": "test"
+    },
+    {
+      "index": 75,
+      "parent_index": 125,
+      "source_index": 870,
+      "prompt": "Ghost ship in the stormy sea, sunset, by Aivazovsky, trending on artstation, sunset, 8k, sharp high quality,",
+      "split": "test"
+    },
+    {
+      "index": 76,
+      "parent_index": 126,
+      "source_index": 690,
+      "prompt": "side view mountainside landscape, studio ghibli, pixar and disney animation, sharp, rendered in unreal engine 5, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, wide angle, artbook, wallpaper, splash art, hollow knight, promo art, dramatic lighting, art by artgerm and greg rutkowski and bo chen and jin xiaodi",
+      "split": "test"
+    },
+    {
+      "index": 77,
+      "parent_index": 127,
+      "source_index": 286,
+      "prompt": "female moon knight, hyper detailed, digital art, trending in artstation, cinematic lighting, studio quality, smooth render, unreal engine 5 rendered, octane rendered, art style by alphonse mucha and greg rutkowski and ian sprigger",
+      "split": "test"
+    },
+    {
+      "index": 78,
+      "parent_index": 128,
+      "source_index": 994,
+      "prompt": "scene from a party with 1 0 people in the forest, vibrant colours, beautiful, digital art, winning award masterpiece, cinematic lighting, trending on artstation, 8 k",
+      "split": "test"
+    },
+    {
+      "index": 79,
+      "parent_index": 129,
+      "source_index": 226,
+      "prompt": "Anime as Margot Robbie cute-fine-face, pretty face, surprised realistic shaded Perfect face, fine details. Anime. as Harley Quinn Suicide Squad; Red-Line-Anime realistic shaded lighting by Ilya Kuvshinov katsuhiro otomo ghost-in-the-shell, magali villeneuve, artgerm, rutkowski, WLOP Jeremy Lipkin and Giuseppe Dangelico Pino and Michael Garmash and Rob Rey",
+      "split": "test"
+    },
+    {
+      "index": 80,
+      "parent_index": 130,
+      "source_index": 886,
+      "prompt": "beautiful portrait of a mediterranean female wearing fantastic Hand-dyed cotton dress, embellished beaded feather decorative fringe knots ,colorful pigtail,subtropical flowers and plants,symmetrical face,intricate,minority,elegant, highly detailed, 8k,post-processing,digital painting, trending on artstation, concept art, sharp focus, illustration, by artgerm,Tom Bagshaw,Daniel Gerhartz,Albert Aublet,Lawrence Alma-Tadema",
+      "split": "test"
+    },
+    {
+      "index": 81,
+      "parent_index": 131,
+      "source_index": 702,
+      "prompt": "killua zoldyck black hair, rain, white hair, techwear, streetwear, cyberpunk style outfit, greg rutkowski, artgerm, ross tran, takato yomamoto, wlop, ilya kuvshinov, intricate complexity, detailed portrait, 4 k, cinematic lighting, artstation, sharp focus, smooth, makoto shinkai",
+      "split": "test"
+    },
+    {
+      "index": 82,
+      "parent_index": 132,
+      "source_index": 902,
+      "prompt": "red eyed anime girl, flames everywhere, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 83,
+      "parent_index": 133,
+      "source_index": 489,
+      "prompt": "shiny aluminum rocket ship in cosmic space by tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, larry elmore, star trek, enterprise, dust, diffusion, solar sails, sun, colorful nebulae, swirling galaxies, shining metal, glowing engines, masterpiece, trending on artstation, cinematic composition, beautiful lighting, sharp, details, hd, 8 k",
+      "split": "test"
+    },
+    {
+      "index": 84,
+      "parent_index": 134,
+      "source_index": 240,
+      "prompt": "a statue of krishna mecha, tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, trending on artstation, cinematic composition, beautiful lighting, hyper detailed, 8 k, oil on canvas",
+      "split": "test"
+    },
+    {
+      "index": 85,
+      "parent_index": 135,
+      "source_index": 581,
+      "prompt": "portrait of anthropomorphic mecha - totem shaman ghostspeaker, intricate, elegant, highly detailed animal monster, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8 k",
+      "split": "test"
+    },
+    {
+      "index": 86,
+      "parent_index": 136,
+      "source_index": 149,
+      "prompt": "ultra realistic illustration, a statue of the tree of life, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+      "split": "test"
+    },
+    {
+      "index": 87,
+      "parent_index": 137,
+      "source_index": 626,
+      "prompt": "a young attractive Asian woman in the pilot's seat of a massive sci-fi mecha, both arms at her sides, dramatic pose, blue LEDs, highly detailed, photorealistic, volumetric lighting, digital art, octane render, in the style of Artgerm and Tom Bagshaw",
+      "split": "test"
+    },
+    {
+      "index": 88,
+      "parent_index": 138,
+      "source_index": 493,
+      "prompt": "a high detail paint of Two cats dancing around Jomon pottery, in simple background, concept art, mad painting",
+      "split": "test"
+    },
+    {
+      "index": 89,
+      "parent_index": 139,
+      "source_index": 883,
+      "prompt": "character portrait art, ant alien, trending in artstation, purple color lighting",
+      "split": "test"
+    },
+    {
+      "index": 90,
+      "parent_index": 140,
+      "source_index": 32,
+      "prompt": "onmyoji portrait, fine details. night setting. realistic shaded lighting poster by craig mullism, artgerm, jeremy lipkin and michael garmash, unreal engine, vibrant colors and hard shadows and strong rim light, light blue sky, cool white color temperature, radiant light, detailed and intricate environment, digital art",
+      "split": "test"
+    },
+    {
+      "index": 91,
+      "parent_index": 141,
+      "source_index": 636,
+      "prompt": "bright psychedelic photo of a witch riding a skateboard in a supermarket, diffuse lighting, fantasy, intricate, elegant, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, art by John Collier and Albert Aublet and Krenz Cushart and Artem Demura and Alphonse Mucha",
+      "split": "test"
+    },
+    {
+      "index": 92,
+      "parent_index": 142,
+      "source_index": 919,
+      "prompt": "a hyper realistic professional photographic view picture of the beautiful universe, photographic filter unreal engine 5 realistic hyperdetailed 8k ultradetail cinematic concept art volumetric lighting, fantasy artwork, very beautiful scenery, very realistic painting effect, hd, hdr, cinematic 4k wallpaper, 8k, ultra detailed, high resolution, artstation trending on artstation in the style of Albert Dros glowing rich colors powerful imagery nasa footage drone footage drone photography",
+      "split": "test"
+    },
+    {
+      "index": 93,
+      "parent_index": 143,
+      "source_index": 920,
+      "prompt": "an elven woman with long, silver hair cascading down her back. she has delicate, angular features and piercing blue eyes. she's clad in a flowing white dress with intricate silver embroidery, dynamic lighting, photorealistic fantasy concept art, trending on art station, stunning visuals, creative cinematic, ultra detailed",
+      "split": "test"
+    },
+    {
+      "index": 94,
+      "parent_index": 144,
+      "source_index": 884,
+      "prompt": "breathe into euphoria madison beer with a branches growing from her head, alterd carbon, geisha, dreamy ethereal vibe,, atmospheric, hyperdetailed detailed intricate render, hyperrealistic, glossy porcelain skin, rain, fibbonacci, detailed illustration, hd, 4 k, digital art, overdetailed art, gold, surrealistic, by greg rutkowski, by loish, trending on artstation, deviantart",
+      "split": "test"
+    },
+    {
+      "index": 95,
+      "parent_index": 145,
+      "source_index": 814,
+      "prompt": "beautiful natural female Rhyan Gosling, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha and loish and WLOP",
+      "split": "test"
+    },
+    {
+      "index": 96,
+      "parent_index": 146,
+      "source_index": 915,
+      "prompt": "portrait of handsome black genius in tailored suit, urban skyline, low haircut with full beard, supreme mathematics, elegant atmosphere, glowing lights, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by wlop, mars ravelo and greg rutkowski",
+      "split": "test"
+    },
+    {
+      "index": 97,
+      "parent_index": 147,
+      "source_index": 309,
+      "prompt": "stealth starship bombing a capital starship in space. explosions, action shot. pulp sci - fi art. high contrast. tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, larry elmore, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4 k, 8 k",
+      "split": "test"
+    },
+    {
+      "index": 98,
+      "parent_index": 148,
+      "source_index": 910,
+      "prompt": "3d infrared octane render concept art by Mo Xiang Tong Xiu, by Igarashi Daisuke, by makoto shinkai, cute beauty cozy portrait anime sad schoolgirls under dark pink and blue tones, mirror room. light rays. deep water bellow. beautiful pretty realistic smile",
+      "split": "test"
+    },
+    {
+      "index": 99,
+      "parent_index": 149,
+      "source_index": 50,
+      "prompt": "artistic rendition of a man jumping in the while holding a bottle, trending on Artstation",
+      "split": "test"
+    }
+  ],
+  "variants": [
+    0,
+    1,
+    4,
+    16,
+    32,
+    64
+  ],
+  "patch_counts": [
+    1,
+    4,
+    16,
+    32,
+    64
+  ],
+  "attacks": [
+    "crop6"
+  ],
+  "stages": [
+    "none"
+  ],
+  "dataset": {
+    "watermarked_test_images_per_layout": 100,
+    "total_watermarked_test_images": 500,
+    "shared_unmarked_test_images": 100,
+    "unmarked_calibration_images": 20,
+    "total_new_generations": 600,
+    "calibration_parent_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "test_parent_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149
+    ],
+    "selection": "fixed parent indices before outcomes; calibration and test prompts disjoint"
+  },
+  "settings": {
+    "model_dir": "/data/diffusion-watermark/gunn_reference_assets/model",
+    "height": 512,
+    "width": 512,
+    "latent_shape": [
+      4,
+      64,
+      64
+    ],
+    "generation_steps": 50,
+    "inversion_steps": 50,
+    "guidance": 3.0,
+    "decoder_adam_steps": 100,
+    "recovery_prompt": "",
+    "dtype": "float32",
+    "solver_order": 1,
+    "inverse_order": 0
+  },
+  "watermark": {
+    "total_message_bits": 512,
+    "message_bits_per_patch": {
+      "1": 512,
+      "4": 128,
+      "16": 32,
+      "32": 16,
+      "64": 8
+    },
+    "block_lengths": {
+      "1": 16384,
+      "4": 4096,
+      "16": 1024,
+      "32": 512,
+      "64": 256
+    },
+    "t": 3,
+    "patch_fpr": 1e-05,
+    "posterior_variance": 1.5,
+    "keys": "one independently generated fixed key set per layout, reused for every image; fixed before calibration",
+    "algorithms": "unchanged authors KeyGen/Encode/sample/recover_posteriors/Detect; defaults g,r,noise recomputed for patch block length",
+    "seed_domains": "documented integer stream bases 3000000000 through 3600000000, + variant_index*1000000 + image_index*1000 + patch"
+  },
+  "alignment": {
+    "knowledge": "none used at detection",
+    "attack": "remove 6 pixels from each border:512 to500; bilinear resize to512 using existing verified renderer",
+    "correction": "none"
+  },
+  "evaluation": {
+    "primary": "arithmetic mean of normalized PRC patch scores; for count1 this is the original unpatched score",
+    "target_fpr": 0.05,
+    "calibration_n": 20,
+    "threshold": "maximum score on20 separate cropped unmarked images; strict greater-than",
+    "metrics": [
+      "TPR",
+      "achieved FPR",
+      "AUROC",
+      "Wilson95 intervals",
+      "paired-bootstrap AUROC and TPR-difference intervals"
+    ],
+    "original_rule": "secondary original any-patch threshold; not matched-FPR",
+    "bootstrap_replicates": 2000,
+    "bootstrap_seed": 2026100111,
+    "uncertainty": "prompt-level resampling conditional on the fixed key set and realized calibration set; not uncertainty over alternative keys",
+    "clean": "first two prompt slots only as implementation diagnostics",
+    "selection": "no tuning or positive/test outcomes used for threshold selection"
+  },
+  "retention": "retain all prompts and results; never reject a key/seed for detection failure; pilot slots retained in the100 tests",
+  "source_sha256": {
+    "experiments/gunn_patch_alignment_20261001/analyze.py": "0b26859cd0288f9a0f67b8f3de1bcb483d16f9c40d97e9eb7eb7d3749a95ac84",
+    "experiments/gunn_patch_alignment_20261001/check.py": "5bdf58e3d322f95d4008b4d92700514cfe512aad062f271f7e789ba74bc1d6d9",
+    "experiments/gunn_patch_alignment_20261001/core.py": "de412291d2821d89f1509467103310fe9858459d0d4726ad3d94f40863e90c3a",
+    "experiments/gunn_patch_alignment_20261001/run.py": "38d342af33c336e7e1b40fe29c2d5953f0b66d3a1cc4918ab5a8328b84999413",
+    "scripts/run_gunn_reference.py": "76fc2053533199ea94233843e240793f103a0c55a2e774823038318afd8c0daa",
+    "scripts/run_large_sd_benchmark.py": "bfe56db9109e55746eb7bcf6a1a6364a82747b4d39d99fb8ca02bc32cd9f1584",
+    "experiments/gunn_sd_reverse_v2/optimized_recovery.py": "b9bb768de21cd1e9aa34d21efeaf466d62a2eee79ad6dc0cc89b5abbcde2b3b2",
+    "watermark/linear_image_maps.py": "20bc7000e3e6fb1fb2616bff9f89651186cea71516d3f55d52f56a59a9c909e4",
+    "source/gunn_audit/PRC-Watermark/decode.py": "748c436cfc28b2b44fb51a12a826ec7a9912f821a0d44b730dc909d9481aa932",
+    "source/gunn_audit/PRC-Watermark/encode.py": "954cc2bfc565ebf8dd22875f37b3600d37f8810a80f671d477567f1001dee016",
+    "source/gunn_audit/PRC-Watermark/inversion.py": "7d5026d5301318b4037aad4a7e4982f52af60df2bd30b09a599daf778a351437",
+    "source/gunn_audit/PRC-Watermark/src/inverse_stable_diffusion.py": "f2e3ce6b98efec8fa0e7523c07d75f249b60e78dba02f5424b47e27a4b6a0f99",
+    "source/gunn_audit/PRC-Watermark/src/modified_stable_diffusion.py": "239d6e7b728cd717010a7fb05c14670b68f18629183c81fbc74ad31ce24365ec",
+    "source/gunn_audit/PRC-Watermark/src/optim_utils.py": "d96765a945a6d26514799bc6d8da0afc74f63a3482ff02e4ebd9391eb0dde344",
+    "source/gunn_audit/PRC-Watermark/src/prc.py": "6e3743687fe01ce148fd44998c82e785b9b408548f22820c5f0defbcf3e67a5f",
+    "source/gunn_audit/PRC-Watermark/src/pseudogaussians.py": "6cc92bd53afe9004a2d878c7db406454c04a36d4724db41410821dac7ad872f8",
+    "source/gunn_audit/PRC-Watermark/src/baseline/gs_watermark.py": "08419063d39085ae9f6f5862803932f52b9f0193e8f54a2c150da85e5345188b",
+    "source/gunn_audit/PRC-Watermark/src/baseline/treering_watermark.py": "d280510985bc5a9c6e75b93a8b94b371a28f5ee0bc0b91bf3e9e21f74933674c",
+    "experiments/gunn_crop_calibration100_20261001/campaign.py": "808d77e8a10884d9d7dfa1b75a641e610642bbd174c5d2c56de7780eda9f9a90"
+  },
+  "key_sha256": {
+    "keys/p1.pkl": "18d662c7bc1bd14a0c2e6ed716b71bc52ff1168949ec5593817d23bb843b34a4",
+    "keys/p4.pkl": "4a4c57274e27ce5a9b2e89d736e2878841a159a9a82a3f63107d5489e660872d",
+    "keys/p16.pkl": "ebfed9d0dbb50523cef2137b282fdceda5c3ec512ebfd03f19ba8d72011b7f28",
+    "keys/p32.pkl": "650900ff1e689ad883016116f44d57fa002e406514d853630997d525a770b8ce",
+    "keys/p64.pkl": "66fe14a1f24f0ba42723910229edc5c8dd131d08489a619fe6878ed2f5c3e22e"
+  },
+  "versions": {
+    "numpy": "1.26.0",
+    "scipy": "1.14.1",
+    "torch": "2.1.0+cu121",
+    "diffusers": "0.21.4",
+    "galois": "0.4.1",
+    "ldpc": "0.1.51"
+  },
+  "parent": "/data/diffusion-watermark/runs/gunn_patch_alignment_200_20261001",
+  "layouts": {
+    "1": {
+      "rows": 1,
+      "columns": 1,
+      "coordinates_per_patch": 16384,
+      "message_bits_per_patch": 512
+    },
+    "4": {
+      "rows": 2,
+      "columns": 2,
+      "coordinates_per_patch": 4096,
+      "message_bits_per_patch": 128
+    },
+    "16": {
+      "rows": 4,
+      "columns": 4,
+      "coordinates_per_patch": 1024,
+      "message_bits_per_patch": 32
+    },
+    "32": {
+      "rows": 4,
+      "columns": 8,
+      "coordinates_per_patch": 512,
+      "message_bits_per_patch": 16
+    },
+    "64": {
+      "rows": 8,
+      "columns": 8,
+      "coordinates_per_patch": 256,
+      "message_bits_per_patch": 8
+    }
+  }
+}

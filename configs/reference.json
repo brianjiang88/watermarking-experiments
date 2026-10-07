@@ -1,0 +1,10 @@
+{
+  "model": "models/sd2.1-base",
+  "layouts": [1, 4, 16, 32, 64],
+  "attacks": [{"name":"crop6", "kind":"crop_resize", "pixels":6}],
+  "calibration_count": 20,
+  "test_count": 100,
+  "num_devices": 1,
+  "seed_offset": 0,
+  "save_initial_latents": false
+}
